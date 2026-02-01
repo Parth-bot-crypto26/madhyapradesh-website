@@ -92,16 +92,19 @@ A modern, immersive, and culturally rich web experience designed to showcase the
 ---
 
 ## Getting Started
-Clone the repository:
+*1. Clone the repository*
 
 Bash
-git clone [https://github.com/your-username/madhya-pradesh-tourism.git](https://github.com/your-username/madhya-pradesh-tourism.git)
-Install dependencies:
+git clone [https://github.com/Parth-bot-crypto26/madhyapradesh-website.git](https://github.com/Parth-bot-crypto26/madhyapradesh-website.git)
+cd madhyapradesh-website
+
+*2. Install dependencies*
 
 Bash
-cd madhya-pradesh-tourism
 npm install
-Run the development server:
+
+*3. Start the development server*
 
 Bash
 npm run dev
+Open in Browser Click the link provided in the terminal (usually http://localhost:5173) to view the app.
